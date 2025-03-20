@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://telegra.ph/Cheatlauncher-Github-03-18"><img src="https://github.com/user-attachments/assets/c515cccc-af13-4bcd-afc7-9f107fa81fcf" height="80"></a></div>
+  <a href="https://telegra.ph/Cheatlauncher-Github-03-18"><img src="https://github.com/user-attachments/assets/6a14fc66-6ddc-40ba-a9d3-d7b4fc2d66a8" height="80"></a></div>
 
 
   # Functions
